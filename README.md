@@ -1,2 +1,2 @@
-# udacity-projects
-A collection of projets from the C++ nanodegree
+# Udacity C++ Nanodegree Projects
+A collection of projects and miscellaneous code from the C++ nanodegree
